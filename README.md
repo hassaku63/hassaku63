@@ -1,11 +1,6 @@
 <div>
-  <a href="https://github.com/hassaku63/hassaku63">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hassaku63&show_icons=true&hide_border=true" />
-  </a>
-  
-  <a href="https://github.com/hassaku63/hassaku6">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassaku63&hide=html&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats" />
-  </a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hassaku63&show_icons=true&hide_border=true" />  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassaku63&langs_count=6&hide=html&hide_border=true/" >
 </div>
 
 # hassaku63
