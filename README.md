@@ -8,8 +8,14 @@
 - [Twitter](https://twitter.com/hassaku_63)
 - [Qiita](https://qiita.com/hassaku_63)
 - [Lapras profile](https://lapras.com/public/GCTGNRV)
+- [Speaker Deck](https://speakerdeck.com/hassaku63)
 
-# I am interested in ...
+登壇
+
+- PyConJP 2020 [Python × AWS × Serverless 初学者が次の一歩を踏み出すためのテクニック](https://pycon.jp/2020/en/timetable/?id=203588)
+
+
+# I am interested in
 
 - AWS
 - AWS CDK
