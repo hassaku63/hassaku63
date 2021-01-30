@@ -3,6 +3,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassaku63&langs_count=6&hide=html&hide_border=true/" >
 </div>
 
+[Lapras profile](https://lapras.com/public/GCTGNRV)
+
+https://lapras.com/public/GCTGNRV
+
 # hassaku63
 
 - [Twitter](https://twitter.com/hassaku_63)
