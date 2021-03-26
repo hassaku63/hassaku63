@@ -16,8 +16,11 @@
   - [Booth shop](https://booth.pm/ja/items/1881928)
 - 2020.08 PyConJP 2020 / 登壇 [Python × AWS × Serverless 初学者が次の一歩を踏み出すためのテクニック](https://pycon.jp/2020/en/timetable/?id=203588)
   - [Slide (Speaker Deck)](https://speakerdeck.com/hassaku63/python-and-aws-and-serverless-step-to-the-next-stage-from-a-beginner)
-- 2020.01 [July Tech Festa 2021 Winter](https://techfesta.connpass.com/event/193966/) / 登壇 ソースコードを快適に引き継いでいくためにやりたいこと
+- 2021.01 [July Tech Festa 2021 Winter](https://techfesta.connpass.com/event/193966/) / 登壇 ソースコードを快適に引き継いでいくためにやりたいこと
   - [Slide (Speaker Deck)](https://speakerdeck.com/hassaku63/jtf2021w-f5-hassaku-building-development-environment-with-docker-and-vscode?slide=2)
+- 2021.03 CloudNative Days Spring 2021 Online
+- [Session Page](https://event.cloudnativedays.jp/cndo2021/talks/981)
+- [Slide (Speaker Deck)](https://speakerdeck.com/hassaku63/serverless-development-practices-the-next-step-of-hello-world)
 
 
 # I am interested in
