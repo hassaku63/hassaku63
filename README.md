@@ -19,7 +19,7 @@
 - 2021.01 [July Tech Festa 2021 Winter](https://techfesta.connpass.com/event/193966/) / 登壇 ソースコードを快適に引き継いでいくためにやりたいこと
   - [Slide (Speaker Deck)](https://speakerdeck.com/hassaku63/jtf2021w-f5-hassaku-building-development-environment-with-docker-and-vscode?slide=2)
 - 2021.03 CloudNative Days Spring 2021 Online / 私がもっと早く知りたかったサーバーレス開発の "Hello World" 次の一歩
-  - [Session: 私がもっと早く知りたかったサーバーレス開発の "Hello World" 次の一歩](https://event.cloudnativedays.jp/cndo2021/talks/981)
+  - [Session Page: 私がもっと早く知りたかったサーバーレス開発の "Hello World" 次の一歩](https://event.cloudnativedays.jp/cndo2021/talks/981)
   - [Slide (Speaker Deck)](https://speakerdeck.com/hassaku63/serverless-development-practices-the-next-step-of-hello-world)
 
 
