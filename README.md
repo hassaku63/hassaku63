@@ -24,11 +24,10 @@
   - [Slide (Speaker Deck)](https://speakerdeck.com/hassaku63/serverless-development-practices-the-next-step-of-hello-world)
 
 
-# I am interested in
+# Interested in;
 
 - AWS
-- AWS CDK
 - Serverless
-- Serverless Framework
-- TypeScript
 - Python
+- TypeScript
+- SRE
