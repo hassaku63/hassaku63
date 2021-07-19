@@ -22,6 +22,10 @@
 - 2021.03 CloudNative Days Spring 2021 Online / 私がもっと早く知りたかったサーバーレス開発の "Hello World" 次の一歩
   - [Session Page: 私がもっと早く知りたかったサーバーレス開発の "Hello World" 次の一歩](https://event.cloudnativedays.jp/cndo2021/talks/981)
   - [Slide (Speaker Deck)](https://speakerdeck.com/hassaku63/serverless-development-practices-the-next-step-of-hello-world)
+- 2021.07 [July Tech Festa 2021](https://techfesta.connpass.com/event/213069/) / 登壇 「結局インデックスってなんなんですか？」
+  - [Slide (Speaker Deck)](https://speakerdeck.com/hassaku63/lets-learn-about-b-tree-index)
+  - [登壇レポート](https://blog.serverworks.co.jp/2021/07/19/145409)
+  - Youtube (後日追記)
 
 
 # Interested in;
