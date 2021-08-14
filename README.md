@@ -25,7 +25,7 @@
 - 2021.07 [July Tech Festa 2021](https://techfesta.connpass.com/event/213069/) / 登壇 「結局インデックスってなんなんですか？」
   - [Slide (Speaker Deck)](https://speakerdeck.com/hassaku63/lets-learn-about-b-tree-index)
   - [登壇レポート](https://blog.serverworks.co.jp/2021/07/19/145409)
-  - Youtube (後日追記)
+  - [Youtube](https://youtu.be/33oFtND-dj4)
 
 
 # Interested in;
