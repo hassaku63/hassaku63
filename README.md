@@ -26,6 +26,7 @@
   - [Slide (Speaker Deck)](https://speakerdeck.com/hassaku63/lets-learn-about-b-tree-index)
   - [登壇レポート](https://blog.serverworks.co.jp/2021/07/19/145409)
   - [Youtube](https://youtu.be/33oFtND-dj4)
+  - ログミー Tech さんに記事化していただきました/ [雑なクエリやインデックスは意味がない 原理を理解してB−Treeインデックスを正しく利用する](https://logmi.jp/tech/articles/325519)
 - 2021.09 [AWS Dev Day Online Japan](https://aws.amazon.com/jp/about-aws/events/2021/devday/) ブレイクアウトセッション A-2 「Lambda だけじゃもったいない。サーバーレス開発の第二歩目を踏み出そう」
   - [Slide (Speaker Deck)](https://speakerdeck.com/hassaku63/lets-take-second-step-in-serverless-development)
   - [登壇レポート](https://blog.serverworks.co.jp/aws-dev-day-online-japan-2021-report-hashimoto)
