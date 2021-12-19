@@ -13,7 +13,7 @@
 
 ## 登壇・出版等
 
-- 2020.03 技術書典8 / 共著出典　[実践 AWS CDK - TypeScript でインフラもアプリも！](https://techbookfest.org/product/5655856821567488)
+- 2020.03 技術書典8 / 共著出典 [実践 AWS CDK - TypeScript でインフラもアプリも！](https://techbookfest.org/product/5655856821567488)
   - [Booth shop](https://booth.pm/ja/items/1881928)
 - 2020.08 PyConJP 2020 / 登壇 [Python × AWS × Serverless 初学者が次の一歩を踏み出すためのテクニック](https://pycon.jp/2020/en/timetable/?id=203588)
   - [Slide (Speaker Deck)](https://speakerdeck.com/hassaku63/python-and-aws-and-serverless-step-to-the-next-stage-from-a-beginner)
@@ -31,8 +31,7 @@
   - [Slide (Speaker Deck)](https://speakerdeck.com/hassaku63/lets-take-second-step-in-serverless-development)
   - [登壇レポート](https://blog.serverworks.co.jp/aws-dev-day-online-japan-2021-report-hashimoto)
 
-
-# Interested in;
+# Interested in ...
 
 - AWS
 - Serverless
