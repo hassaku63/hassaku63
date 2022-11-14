@@ -30,3 +30,6 @@
 - 2021.09 [AWS Dev Day Online Japan](https://aws.amazon.com/jp/about-aws/events/2021/devday/) ブレイクアウトセッション A-2 「Lambda だけじゃもったいない。サーバーレス開発の第二歩目を踏み出そう」
   - [Slide (Speaker Deck)](https://speakerdeck.com/hassaku63/lets-take-second-step-in-serverless-development)
   - [登壇レポート](https://blog.serverworks.co.jp/aws-dev-day-online-japan-2021-report-hashimoto)
+- 2022.11 [AWS Dev Day 2022 Japan](https://aws.amazon.com/jp/events/devday/japan/) ブレイクアウトセッション B-4 「サーバーレスな社内業務システムを稼働させて1年経ったので、今日までの足跡を語ろうと思う」
+  - [Speaker Deck](https://speakerdeck.com/hassaku63/lets-take-second-step-in-serverless-development)
+  - [登壇レポート](https://blog.serverworks.co.jp/aws-dev-day-online-japan-2021-report-hashimoto)
