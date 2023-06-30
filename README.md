@@ -29,4 +29,6 @@
 | 2021.09 | AWS Dev Day Online Japan | ブレイクアウトセッション A-2: Lambda だけじゃもったいない。サーバーレス開発の第二歩目を踏み出そう | [Speaker Deck](https://speakerdeck.com/hassaku63/lets-take-second-step-in-serverless-development) |
 |         |         |  | [登壇レポート](https://blog.serverworks.co.jp/aws-dev-day-online-japan-2021-report-hashimoto) |
 | 2022.11 | AWS Dev Day 2022 Japan | ブレイクアウトセッション B-4: サーバーレスな社内業務システムを稼働させて1年経ったので、今日までの足跡を語ろうと思う | [Speaker Deck](https://speakerdeck.com/hassaku63/footprint-of-in-house-system-developed-fully-serverless-on-aws-a84d3a8f-827d-4abf-ac82-cc4b5b5967d4) |
-|         |         |  | [登壇レポート](https://blog.serverworks.co.jp/aws-dev-day-online-japan-2021-report-hashimoto)
+|         |         |  | [登壇レポート](https://blog.serverworks.co.jp/aws-dev-day-online-japan-2021-report-hashimoto) |
+| 2023.05 | [CDK Conference Japan 2023](https://jawsug-cdk.connpass.com/event/278205/) | Serverless Framework ユーザーが CDK に引っ越しして感じたハードルについて言語化	 | [Speaker Deck](https://speakerdeck.com/hassaku63/serverless-framework-yuzaga-cdk-niyin-tuyue-sisitegan-zitahadorunituiteyan-yu-hua-sitemiru) |
+
