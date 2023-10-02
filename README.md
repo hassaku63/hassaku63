@@ -32,6 +32,5 @@
 |         |         |  | [登壇レポート](https://blog.serverworks.co.jp/aws-dev-day-online-japan-2021-report-hashimoto) |
 | 2023.05 | [CDK Conference Japan 2023](https://jawsug-cdk.connpass.com/event/278205/) | Serverless Framework ユーザーが CDK に引っ越しして感じたハードルについて言語化	 | [Speaker Deck](https://speakerdeck.com/hassaku63/serverless-framework-yuzaga-cdk-niyin-tuyue-sisitegan-zitahadorunituiteyan-yu-hua-sitemiru) |
 | 2023.09 | JAWS-UG CDK支部 #9 | なし| [JAWS-UG CDK支部 \#9](https://jawsug-cdk.connpass.com/event/294236/) |
-| 2023.09 | [CDK Day 2023](https://www.cdkday.com/) | [Configure cross-account deployment using CDK](https://www.cdkday.com/#configure-cross-account-deployment-using-cdk) | (TBW) |
-
-
+| 2023.09 | [CDK Day 2023](https://www.cdkday.com/) | [Configure cross-account deployment using CDK](https://www.cdkday.com/#configure-cross-account-deployment-using-cdk) | [Speaker Deck](https://speakerdeck.com/hassaku63/cdk-day-2023-configure-cross-account-deployment-using-cdk) |
+|         |         |  | 登壇レポート [CDK Day 2023 に登壇して英語プレゼンデビューしてきました](https://blog.serverworks.co.jp/2023/10/02/172950) |
