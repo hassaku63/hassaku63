@@ -34,3 +34,4 @@
 | 2023.09 | JAWS-UG CDK支部 #9 | なし| [JAWS-UG CDK支部 \#9](https://jawsug-cdk.connpass.com/event/294236/) |
 | 2023.09 | [CDK Day 2023](https://www.cdkday.com/) | [Configure cross-account deployment using CDK](https://www.cdkday.com/#configure-cross-account-deployment-using-cdk) | [Speaker Deck](https://speakerdeck.com/hassaku63/cdk-day-2023-configure-cross-account-deployment-using-cdk) |
 |         |         |  | 登壇レポート [CDK Day 2023 に登壇して英語プレゼンデビューしてきました](https://blog.serverworks.co.jp/2023/10/02/172950) |
+| 2024.02 | SaaS Engineering Meetup<br/>[第6回 続・AWS re:Invent 2023 SaaS関連報告会](https://saas-engineering-meetup.connpass.com/event/307955/) | AWS re:Invent 2023 ML/AI x SaaS セッション振り返り | [SpeakerDeck](https://speakerdeck.com/hassaku63/saas-eng-meetup-6-hassaku63) |
