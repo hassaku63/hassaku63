@@ -11,7 +11,7 @@
 - [Lapras profile](https://lapras.com/public/GCTGNRV)
 - [Speaker Deck](https://speakerdeck.com/hassaku63)
 
-## 登壇・出版等
+## 外部登壇等の活動履歴
 
 | 日付     | イベント  | 発表   | リンク |
 | ---     | ---     | ---    | ---  |
@@ -38,3 +38,6 @@
 | 2025.07 | [AWS CDK Conference Japan 2025](https://jawsug-cdk.connpass.com/event/356357/) | The Niche of CDK - Grant オブジェクトって何者？ | [SpeakerDeck](https://speakerdeck.com/hassaku63/the-niche-of-cdk-what-isgrant-object) |
 |         |         |  | 登壇レポート [AWS CDK Conference Japan 2025 登壇報告 - Grant オブジェクトの話をしてきました](https://blog.serverworks.co.jp/2025/07/13/224508) |
 
+## Contribution
+
+aws/aws-cdk https://github.com/aws/aws-cdk/pulls?q=is%3Apr+author%3Ahassaku63
