@@ -20,7 +20,7 @@
 | 2020.08 | PyConJP 2020 | 登壇: Python × AWS × Serverless 初学者が次の一歩を踏み出すためのテクニック | [PyCon JP 2020 Session Page](https://pycon.jp/2020/en/timetable/?id=203588) |
 |         |         |  | [Slide (Speaker Deck)](https://speakerdeck.com/hassaku63/python-and-aws-and-serverless-step-to-the-next-stage-from-a-beginner) |
 | 2021.01 | July Tech Festa 2021 Winter | 登壇: ソースコードを快適に引き継いでいくためにやりたいこと | [Slide (Speaker Deck)](https://speakerdeck.com/hassaku63/jtf2021w-f5-hassaku-building-development-environment-with-docker-and-vscode) |
-| 2021.03 | CloudNative Days Spring 2021 Online | 登壇: 私がもっと早く知りたかったサーバーレス開発の "Hello World" 次の一歩 | [Session Page](https://event.cloudnativedays.jp/cndo2021/talks/981) |
+| 2021.03 | CloudNative Days Spring 2021 Online | 登壇: 私がもっと早く知りたかったサーバーレス開発の "Hello World" 次の一歩 | [Session Page](https://event.cloudnativedays.jp/cndo2021/talks/981) <br/> [Slide (Speaker Deck)](https://speakerdeck.com/hassaku63/serverless-development-practices-the-next-step-of-hello-world) |
 |         |         |  | [Slide (Speaker Deck)](https://speakerdeck.com/hassaku63/serverless-development-practices-the-next-step-of-hello-world) |
 | 2021.07 | July Tech Festa 2021 | 登壇: 結局インデックスってなんなんですか？ | [Slide (Speaker Deck)](https://speakerdeck.com/hassaku63/lets-learn-about-b-tree-index) |
 |         |         |  | [登壇レポート](https://blog.serverworks.co.jp/2021/07/19/145409) |
