@@ -40,4 +40,5 @@
 
 ## Contribution
 
-aws/aws-cdk https://github.com/aws/aws-cdk/pulls?q=is%3Apr+author%3Ahassaku63
+- aws/aws-cdk https://github.com/aws/aws-cdk/pulls?q=is%3Apr+author%3Ahassaku63
+- kubernetes/website https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Ahassaku63
