@@ -1,6 +1,6 @@
 # hassaku63
 
-- [Twitter](https://twitter.com/hassaku_63)
+- [X](https://x.com/hassaku_63)
 - [Zenn.dev](https://zenn.dev/hassaku63)
 - [Qiita](https://qiita.com/hassaku_63)
 - [Lapras profile](https://lapras.com/public/GCTGNRV)
